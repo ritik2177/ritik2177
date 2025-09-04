@@ -44,8 +44,27 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritikkumar&show_icons=true&theme=radical" alt="GitHub Stats" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkumar&layout=compact&theme=radical" alt="Top Languages" height="170px"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ritikkumar&show_icons=true&theme=tokyonight&hide_border=true" alt="Ritik's GitHub Stats" height="165"/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+## 🏆 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ritikkumar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritikkumar&bg_color=0D1117&color=79FE96&line=38BDAE&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
