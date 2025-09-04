@@ -62,14 +62,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritikkumar&bg_color=0D1117&color=79FE96&line=38BDAE&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 25px; border-radius: 20px; box-shadow: 0 0 25px rgba(0,0,0,0.4);">
