@@ -65,8 +65,9 @@
 ## 🏆 GitHub Trophies
 
 <p align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 25px; border-radius: 20px; box-shadow: 0 0 25px rgba(0,0,0,0.4);">
-  <img src="https://github-profile-trophy.vercel.app/?username=ritikkumar&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ritikkumar&theme=onedark&no-frame=true&rank=-?&title=-Issues,-Followers" alt="GitHub Trophies" />
 </p>
+
 
 ---
 
