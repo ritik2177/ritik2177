@@ -9,8 +9,9 @@
 
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ritik+Kumar+👋;Web+Developer+%7C+BCA+Student;Full+Stack+%7C+Next.js+%7C+MongoDB;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F260&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=👋+Hi%2C+I'm+Ritik+Kumar!;💻+Web+Developer+%7C+BCA+Student;⚡+Full+Stack+with+Next.js+%2B+MongoDB;🚀+Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 ---
 
 # 💫 About Me:
