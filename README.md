@@ -23,36 +23,41 @@
 
 ---
 
-## 🛠️ Tech Stack:
+## 🛠️ Tech Stack
 
-**Frontend**  
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-
-**Backend & Database**  
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-**Other Tools**  
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  
-
----
-
-## 📊 GitHub Stats:
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ritikkumar&show_icons=true&theme=tokyonight&hide_border=true" alt="Ritik's GitHub Stats" height="165"/>
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+### 🎨 Frontend  
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
+### ⚙️ Backend & Database  
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### 🛠️ Other Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</p>
 ---
+
+## 📊 GitHub Stats
+
+<p align="center" style="background: linear-gradient(135deg, #1f1c2c, #928DAB); padding: 20px; border-radius: 20px; box-shadow: 0 0 25px rgba(0,0,0,0.3);">
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ritikkumar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="Ritik's GitHub Stats" height="170" style="border-radius: 15px; margin: 10px;" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkumar&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages" height="170" style="border-radius: 15px; margin: 10px;" />
+</p>
+
 
 ## 🏆 GitHub Streak
 
@@ -70,11 +75,11 @@
 
 ---
 
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ritikkumar&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
+## 🏆 GitHub Trophies
 
+<p align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 25px; border-radius: 20px; box-shadow: 0 0 25px rgba(0,0,0,0.4);">
+  <img src="https://github-profile-trophy.vercel.app/?username=ritikkumar&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
 ---
 
 ## 📈 Contribution Graph:
