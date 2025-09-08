@@ -49,7 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ritik2177&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="Ritik's GitHub Stats" height="170" style="border-radius: 15px; margin: 10px;" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkumar&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages" height="170" style="border-radius: 15px; margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik2177&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages" height="170" style="border-radius: 15px; margin: 10px;" />
 </p>
 
 ---
