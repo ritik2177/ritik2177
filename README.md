@@ -46,7 +46,7 @@
 <p align="center" style="background: linear-gradient(135deg, #1f1c2c, #928DAB); padding: 20px; border-radius: 20px; box-shadow: 0 0 25px rgba(0,0,0,0.3);">
   
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ritikkumar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="Ritik's GitHub Stats" height="170" style="border-radius: 15px; margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ritik2177&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="Ritik's GitHub Stats" height="170" style="border-radius: 15px; margin: 10px;" />
   
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkumar&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages" height="170" style="border-radius: 15px; margin: 10px;" />
