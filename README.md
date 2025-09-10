@@ -83,28 +83,8 @@
 
 🔹 **[Authentication System](#)** – Secure login/logout using **NextAuth.js + JWT**  
 
-🔹 **[Portfolio Website](#)** – Personal portfolio built with **Next.js + TailwindCSS**  
+🔹 **[Portfolio Website](#)** – Personal portfolio built with **Next.js + TailwindCSS**
 
----
-
-## ⏳ Upcoming Projects  
-
-🚧 **StayRoom – Full Stack Real Web Application for Students**  
-   - End-to-end platform for **finding and booking student stay rooms**  
-   - Features: 🛏️ Room Management | 💸 Price Filtering | 📍 Location-based Search | 🖼️ Multiple Image Uploads  
-
-🤖 **Machine Learning Projects**  
-   - Exploring **ML models** for predictions & automation  
-   - Upcoming focus: 📊 Student Utilities & Smart Recommendations  
-
----
-
-## 🌐 Connect with Me:
-<p align="center">
-  <a href="https://github.com/ritikkumar"><img src="https://skillicons.dev/icons?i=github" width="45px"/></a>
-  <a href="https://www.linkedin.com/in/ritik-kumar-058694318"><img src="https://skillicons.dev/icons?i=linkedin" width="45px"/></a>
-  <a href="mailto:ritikkatsa2005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45px"/></a>
-</p>
 
 ---
 
